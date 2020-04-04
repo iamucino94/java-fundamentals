@@ -4,4 +4,8 @@
 <fullyQualifiedTypeName name="java.io.FileReader"/>
 <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
 <fullyQualifiedTypeName name="com.example.domain.AccessExample"/>
+<fullyQualifiedTypeName name="com.example.domain.StaticExample"/>
+<fullyQualifiedTypeName name="com.example.domain.PrivateConstructor"/>
+<fullyQualifiedTypeName name="nestedClass.Space.Planet"/>
+<fullyQualifiedTypeName name="herencia.Subclase"/>
 </qualifiedTypeNameHistroy>
