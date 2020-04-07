@@ -13,4 +13,9 @@ public class Subclase extends Superclase{
 		System.out.println(this.numero4);
 		System.out.println(super.numero);
 	}
+	
+	@Override
+	public void hacerAlgo() {
+		System.out.println("haciendo algo desde la subclase");
+	}
 }

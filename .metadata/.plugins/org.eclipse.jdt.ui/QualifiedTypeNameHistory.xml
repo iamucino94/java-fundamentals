@@ -8,4 +8,7 @@
 <fullyQualifiedTypeName name="com.example.domain.PrivateConstructor"/>
 <fullyQualifiedTypeName name="nestedClass.Space.Planet"/>
 <fullyQualifiedTypeName name="herencia.Subclase"/>
+<fullyQualifiedTypeName name="herencia.Claseabstracta"/>
+<fullyQualifiedTypeName name="herencia.SubclaseAbstracta"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
 </qualifiedTypeNameHistroy>
